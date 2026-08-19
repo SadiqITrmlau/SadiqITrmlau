@@ -1,72 +1,86 @@
 # Hi there 👋 I'm Sadiq Khan
 
-🎓 Final-year B.Tech Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models (LLMs), and Data Science.
+<div align="left">
+  <a href="mailto:sadiq.rmlau26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadiq-khan-it/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-I enjoy building intelligent systems that solve real-world problems through deep learning, NLP, and computer vision. My work ranges from AI-powered web applications to research-oriented projects involving geospatial reasoning, recommendation systems, crowd analytics, and assistive technologies.
+<br>
+
+🎓 **Final-year B.Tech Information Technology** student passionate about transforming raw data into intelligent systems and actionable insights. My core interests lie in **Data Analytics, Machine Learning, Computer Vision, and NLP**. 
+
+I enjoy building end-to-end solutions—from data extraction and ETL pipelines to AI-powered web applications and interactive BI dashboards. 
+
+---
 
 ## 🔬 Research Experience
 
 **Research Intern — IIT Bhubaneswar** *(Microsoft Academic Partnership Grant 2024)*
+*Worked on Geospatial Knowledge Inference Using Large Language Models for Enhanced Travel Decision-Making.*
+* **Contributions:** Engineered Python-based data extraction pipelines parsing 150+ complex JSON datasets.
+* Automated preprocessing of persona-based travel itineraries to ensure high-fidelity data for LLM ingestion.
+* Conducted data quality analysis and geospatial knowledge inference research.
 
-Worked on **Geospatial Knowledge Inference Using Large Language Models for Enhanced Travel Decision-Making**, where I contributed to:
+---
 
-* Dataset creation, annotation, and validation
-* Data quality analysis and preprocessing
-* LLM-based travel recommendation workflows
-* Geospatial knowledge inference research
+## 🚀 Featured Projects
 
-## 🚀 Projects
+* 📊 **[Student Cost of Living & Quality Analytics](https://github.com/SadiqITrmlau/Living-Cost-Index)**
+  * *Tech:* Python, SQL, SQLite, Power BI, Pandas
+  * Built an end-to-end ETL pipeline and Power BI dashboard analyzing living costs and safety across 170+ Indian cities. Engineered student-centric KPIs and complex SQL queries for affordability ranking.
+
+* 📚 **[AI-Powered Library Management System](https://github.com/SadiqITrmlau/AI-Powered-Library-Management-System)**
+  * *Tech:* Python, Django, SQLite, JavaScript
+  * Developed a course-based recommendation engine with automated fine calculations and secure role-based access control (RBAC).
 
 * 🤟 **Real-Time AI Sign Language Detection**
-
-  * Built a deep learning-based sign language recognition system using TensorFlow and OpenCV for real-time gesture detection.
+  * *Tech:* TensorFlow, OpenCV, Python
+  * Built a deep learning-based sign language recognition system for real-time gesture detection and translation.
 
 * 🎬 **MovieNomics**
+  * *Tech:* Scikit-learn, Python, Pandas
+  * A movie recommendation and analytics platform integrating machine learning with user preference analysis.
 
-  * Movie recommendation and analytics platform integrating machine learning with user preference analysis.
+---
 
 ## 💻 Tech Stack
 
-**Languages**
+**Languages & Databases:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-* Python
-* C++
-* SQL
+**Data Science & BI:**  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**AI / Machine Learning**
+**AI & Machine Learning:**  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-* Scikit-learn
-* OpenCV
-* Ultralytics YOLO
-* Sentence Transformers
+**Tools & Frameworks:**  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
-**NLP & LLMs**
+---
 
-* Transformers
-* Recommendation Systems
+## 📈 GitHub Stats
 
-**Data Science**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadiqITrmlau&show_icons=true&theme=radium" alt="Sadiq's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqITrmlau&theme=radium" alt="Sadiq's GitHub Streak" width="48%">
+</p>
 
-* Pandas
-* NumPy
-* Matplotlib
+---
 
-**Web & Tools**
-
-* Streamlit
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-
-## 🌱 Currently Exploring
-
-* Advanced Computer Vision
-* AI for Education
-* AI-powered Recommendation Systems
-
-## 📌 Goals
-
-* Build impactful AI products.
-* Secure an AI/ML Engineer or Research Engineer role.
-
-
+## 🌱 Currently Exploring & Goals
+* Exploring Advanced Computer Vision & End-to-End Data Pipelines.
+* **Goal:** To secure an AI/ML Engineer or Data Analyst role where I can build impactful, data-driven products.
