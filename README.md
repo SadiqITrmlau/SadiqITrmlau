@@ -1,86 +1,66 @@
-# Hi there 👋 I'm Sadiq Khan
+# Hi there, I'm Sadiq Khan! 👋
 
-<div align="left">
-  <a href="mailto:sadiq.rmlau26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/sadiq-khan-it/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+### 👨‍💻 Full Stack Developer | Java • Spring Boot • React.js
 
-<br>
+I am a results-driven Full Stack Developer and a final-year B.Tech Information Technology student (Class of 2026)[cite: 3]. I specialize in designing scalable backend REST APIs, building responsive user interfaces, and writing clean, highly optimized code[cite: 3]. 
 
-🎓 **Final-year B.Tech Information Technology** student passionate about transforming raw data into intelligent systems and actionable insights. My core interests lie in **Data Analytics, Machine Learning, Computer Vision, and NLP**. 
-
-I enjoy building end-to-end solutions—from data extraction and ETL pipelines to AI-powered web applications and interactive BI dashboards. 
+Alongside full-stack development, I actively participate in competitive programming events like TCS CodeVita and Coding Quest, and I enjoy contributing to open-source initiatives such as the Social Winter of Code.
 
 ---
 
-## 🔬 Research Experience
-
-**Research Intern — IIT Bhubaneswar** *(Microsoft Academic Partnership Grant 2024)*
-*Worked on Geospatial Knowledge Inference Using Large Language Models for Enhanced Travel Decision-Making.*
-* **Contributions:** Engineered Python-based data extraction pipelines parsing 150+ complex JSON datasets.
-* Automated preprocessing of persona-based travel itineraries to ensure high-fidelity data for LLM ingestion.
-* Conducted data quality analysis and geospatial knowledge inference research.
+### 🚀 What I do
+- **Backend Architecture:** Designing robust microservices and business logic using **Java, Spring Boot, and Spring MVC**[cite: 3].
+- **Frontend Interfaces:** Crafting dynamic, state-managed user experiences with **React.js, Redux, and Tailwind CSS**[cite: 3].
+- **Database Management:** Structuring relational data and optimizing complex queries in **MySQL and PostgreSQL**[cite: 3].
+- **API Development & Integration:** Building, testing (via **Postman**), and integrating secure RESTful APIs[cite: 3].
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-* 📊 **[Student Cost of Living & Quality Analytics](https://github.com/SadiqITrmlau/Living-Cost-Index)**
-  * *Tech:* Python, SQL, SQLite, Power BI, Pandas
-  * Built an end-to-end ETL pipeline and Power BI dashboard analyzing living costs and safety across 170+ Indian cities. Engineered student-centric KPIs and complex SQL queries for affordability ranking.
+**Languages**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-* 📚 **[AI-Powered Library Management System](https://github.com/SadiqITrmlau/AI-Powered-Library-Management-System)**
-  * *Tech:* Python, Django, SQLite, JavaScript
-  * Developed a course-based recommendation engine with automated fine calculations and secure role-based access control (RBAC).
+**Frontend**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-* 🤟 **Real-Time AI Sign Language Detection**
-  * *Tech:* TensorFlow, OpenCV, Python
-  * Built a deep learning-based sign language recognition system for real-time gesture detection and translation.
+**Backend & Databases**  
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-* 🎬 **MovieNomics**
-  * *Tech:* Scikit-learn, Python, Pandas
-  * A movie recommendation and analytics platform integrating machine learning with user preference analysis.
-
----
-
-## 💻 Tech Stack
-
-**Languages & Databases:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-F80000?style=flat-square&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-**Data Science & BI:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**AI & Machine Learning:**  
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-
-**Tools & Frameworks:**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+**Tools & Architecture**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
 
-## 📈 GitHub Stats
+### 💼 Featured Experience & Projects
+
+#### 🔬 Data Pipeline Architecture @ IIT Bhubaneswar
+*Winter Intern* | *Dec 2024 - Jan 2025*[cite: 3]
+*   Engineered a backend pipeline handling 150+ unstructured datasets for a Microsoft-funded LLM data framework[cite: 3].
+*   Developed **Java-based** services with robust Spring Boot exception handling to parse, validate, and convert nested records[cite: 3].
+*   Surfaced processed insights dynamically through a **React.js** frontend portal[cite: 3].
+
+#### 📚 AI-Powered Library Management Portal
+*Full Stack Project* | *Jan 2026 - May 2026*[cite: 3]
+*   Automated book inventory and real-time late-fine calculations using a **Java and Spring MVC** backend[cite: 3].
+*   Built intuitive admin and member dashboards in **React.js**, integrating API endpoints via Axios for real-time rendering[cite: 3].
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/sadiqkhan](https://linkedin.com/in/sadiqkhan)
+- **Email:** sadiq.rmlau26@gmail.com[cite: 3]
+- **Portfolio / Resume:** *(Add your hosted resume link here if available)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqITrmlau&show_icons=true&theme=radium" alt="Sadiq's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiqITrmlau&theme=radium" alt="Sadiq's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiqkhan&show_icons=true&theme=radical" alt="Sadiq's GitHub Stats" />
 </p>
-
----
-
-## 🌱 Currently Exploring & Goals
-* Exploring Advanced Computer Vision & End-to-End Data Pipelines.
-* **Goal:** To secure an AI/ML Engineer or Data Analyst role where I can build impactful, data-driven products.
