@@ -1,201 +1,162 @@
-# Sadiq Khan
+# 👋 Hi, I'm Sadiq Khan
 
-### Analyst | Data Analytics | Data Engineering | Business Intelligence
+### 📊 Data Analyst | Business Intelligence | Data Engineering
 
-📍 India  
-📧 sadiq.rmlau26@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sadiq-khan-it/)  
-💻 [GitHub](https://github.com/SadiqITrmlau)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0071CE&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7C+Tableau;Data+Analytics+%7C+Business+Intelligence+%7C+ETL;Building+Data-Driven+Solutions" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## 👨‍💻 Profile
-
-B.Tech Information Technology student with hands-on experience in **data analytics, data cleaning,
-exploratory data analysis, SQL, Python, Power BI, Excel, and data quality validation**. Experienced
-in working with structured and semi-structured datasets including **CSV and JSON**, performing
-data validation, transformation, analysis, and reporting.
-
-Interested in **Data Engineering, Data Management, Business Intelligence, and Analytics** roles,
-with a strong focus on data accuracy, process improvement, automation, and transforming raw data
-into actionable insights.
+<p align="center">
+  <a href="https://linkedin.com/in/sadiq-khan-it/">LinkedIn</a> •
+  <a href="https://github.com/SadiqITrmlau">GitHub</a> •
+  <a href="mailto:sadiq.rmlau26@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming & Data
-- **Python:** Pandas, NumPy
-- **SQL:** MySQL, SQLite
-- **Data Analysis:** EDA, Data Cleaning, Data Transformation, Data Validation,
-  Data Reconciliation, Trend & Pattern Analysis
-- **Data Formats:** CSV, JSON, Excel
+B.Tech Information Technology student focused on **Data Analytics, Business Intelligence, and Data Engineering**.
 
-### Business Intelligence & Reporting
-- **Power BI:** Data Modeling, Dashboards, KPI Reporting, Data Visualization
-- **Tableau:** Dashboarding & Visualization
-- **Microsoft Excel:** Advanced Excel, Pivot Tables, XLOOKUP, VLOOKUP,
-  INDEX-MATCH, Data Analysis, Reporting
-- **VBA:** Basic Process Automation
-
-### Databases & Data Management
-- DBMS / RDBMS Fundamentals
-- Relational Databases
-- SQL Querying
-- Data Integrity & Consistency
-- Data Quality Checks
-- Data Validation & Reconciliation
-- ETL Fundamentals
-- Data Governance Fundamentals
-
-### Tools
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- MySQL Workbench
-- Microsoft Excel
-- Power BI
-
-### Programming Fundamentals
-- Object-Oriented Programming Fundamentals
-- Data Structures Fundamentals
-- Problem Solving
-- Analytical Thinking
+I work with **Python, SQL, Power BI, Excel, and Tableau** to clean, transform, analyze, and visualize data. I enjoy turning raw datasets into **meaningful insights, dashboards, and data-driven solutions**.
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-### IET Dr. Ram Manohar Lohia Avadh University, Ayodhya
-**B.Tech – Information Technology**  
-2022 – 2026
+<p align="center">
 
-- Relevant areas: Data Analytics, DBMS, SQL, Python, Data Structures,
-  Object-Oriented Programming, Machine Learning
-- Current academic focus: Data Analytics, Business Intelligence & Data Engineering
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,jupyter" />
 
-### Lions Public School, Shaktinagar
-**Class XII – CBSE**  
-2021 | **70.4%**
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+</p>
+
+---
+
+## 📊 Featured Projects
+
+### 🛒 Walmart Market Enterprise Analytics Suite
+
+**Python • SQL • Power BI • Excel • Tableau**
+
+End-to-end retail analytics project covering data processing, SQL analysis, statistical modeling, and business intelligence dashboards.
+
+* 📈 Sales and business KPI analysis
+* 🧹 Data cleaning and transformation
+* 🗄️ SQL-based analytical queries
+* 📊 Power BI & Tableau dashboards
+* 📉 Statistical OLS regression
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/walmart-sales-data-analytics)**
+
+---
+
+### 💳 PhonePe End-to-End Analysis Dashboard
+
+**Python • Pandas • MySQL • Power BI**
+
+* Processed large-scale digital payment and user-registration datasets.
+* Parsed and flattened nested JSON data into structured Pandas DataFrames.
+* Analyzed transaction volume, user growth, and regional payment trends.
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/PhonePe-Dashboard)**
+
+---
+
+### 🚢 Titanic Exploratory Data Analysis
+
+**Python • Pandas • NumPy • Matplotlib • Seaborn**
+
+* Performed data cleaning and exploratory analysis.
+* Investigated missing values, distributions, relationships, and categorical patterns.
+* Created derived features and visualized analytical findings.
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/EDA-Analysis-of-Titanic-Dataset)**
+
+---
+
+### 📚 AI-Powered Library Management System
+
+**PHP • MySQL • SQL • HTML • CSS • JavaScript • Python**
+
+Database-driven library management application focused on structured data management, SQL operations, and an intelligent book recommendation component.
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/AI-Powered-Library-Management-System)**
+
+---
+
+### 🤟 Real-Time AI Sign Language Detection
+
+**Python • TensorFlow • OpenCV • Machine Learning**
+
+Computer vision project for real-time sign language detection using image datasets, preprocessing, and TensorFlow-based object detection.
 
 ---
 
 ## 💼 Experience
 
-### IIT Bhubaneswar — Winter Research Intern
-**Dec 2024 – Jan 2025 | Remote**
+### 🔬 IIT Bhubaneswar — Winter Research Intern
 
-**Project:** Geospatial Knowledge Inference Using LLMs for Enhanced Travel Decision-Making
+**Dec 2024 – Jan 2025**
 
-- Worked with structured **CSV and JSON datasets** for an AI-based geospatial
-  travel decision-making research project.
-- Performed **data annotation, validation, quality checks, and consistency verification**
-  across large datasets.
-- Used **Python and Pandas** for inspecting and processing structured datasets.
-- Applied defined annotation guidelines to maintain **data accuracy and consistency**.
-- Created and validated structured records containing **queries, personas, labels,
-  itinerary information, and reference data**.
-- Identified missing or inconsistent information and followed predefined procedures
-  for resolving or documenting data issues.
-- Collaborated with research mentors to clarify data requirements and maintain
-  dataset quality.
-
----
-
-### ShadowFox — Web Development Intern
-**Oct 2025 | Remote**
-
-- Developed and enhanced web applications using **HTML, CSS, and JavaScript**.
-- Implemented product filtering, sorting, and checkout-related functionality.
-- Worked with an existing codebase and GitHub-based development workflow.
-- Improved application functionality based on defined requirements.
-
----
-
-## 📊 Data Analytics Projects
-
-### PhonePe End-to-End Data Analysis
-**Python | SQL | Power BI | Excel | Data Visualization**
-
-[GitHub Repository](https://github.com/SadiqITrmlau/PhonePe-End-to-End-Data-Analysis)
-
-- Analyzed PhonePe transaction and business datasets to identify trends,
-  patterns, and performance indicators.
-- Performed **data cleaning, transformation, exploratory analysis, and validation**.
-- Developed interactive **Power BI dashboards** for business-oriented reporting.
-- Used data visualization techniques to communicate trends and KPIs.
-- Structured analytical outputs to support data-driven decision-making.
-
----
-
-### Exploratory Data Analysis of Titanic Dataset
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
-
-[GitHub Repository](https://github.com/SadiqITrmlau/EDA-Analysis-of-Titanic-Dataset)
-
-- Performed end-to-end **Exploratory Data Analysis (EDA)** on the Titanic dataset.
-- Cleaned and transformed raw data for analysis.
-- Investigated missing values, distributions, relationships, and categorical patterns.
-- Created derived features including family size and family classifications.
-- Used statistical analysis and visualizations to identify trends and relationships.
-- Documented analytical findings through a structured Jupyter Notebook.
-
----
-
-### AI-Powered Library Management System
-**PHP | MySQL | SQL | HTML | CSS | JavaScript | Python**
-
-[GitHub Repository](https://github.com/SadiqITrmlau/AI-Powered-Library-Management-System)
-
-- Developed a database-driven library management application using **PHP and MySQL**.
-- Designed functionality around structured book and user data.
-- Worked with relational database concepts and SQL queries.
-- Planned an intelligent book recommendation component using data-driven approaches.
-- Focused on organizing, retrieving, and managing structured information efficiently.
-
----
-
-### Real-Time AI Sign Language Detection
-**Python | TensorFlow | OpenCV | Machine Learning**
-
-- Developed a computer vision project for real-time sign language detection.
-- Worked with image datasets and preprocessing workflows.
-- Used transfer learning and TensorFlow Object Detection concepts.
-- Performed dataset preparation and model evaluation for recognition tasks.
-
----
-
-## 🔬 Research Experience
-
-### Microsoft Academic Partnership Grant 2024
 **Geospatial Knowledge Inference Using LLMs for Enhanced Travel Decision-Making**
 
-- Contributed to a research project involving **LLM-based geospatial knowledge
-  inference and travel planning**.
-- Worked with structured and semi-structured data using **CSV, JSON, Python,
-  and Pandas**.
-- Performed systematic data annotation and quality assurance.
-- Followed predefined data schemas and annotation rules.
-- Worked with persona-based data including traveller type, purpose,
-  spending preference, and location preference.
+Worked with **CSV/JSON datasets, Python, and Pandas** for data annotation, validation, quality assurance, and consistency verification in an LLM-based geospatial research project.
+
+### 💻 ShadowFox — Web Development Intern
+
+**Oct 2025**
+
+Worked with **HTML, CSS, JavaScript, and GitHub** to develop and enhance web applications.
 
 ---
 
-## 📈 Core Data Capabilities
+## 📈 What I Work With
 
 ```text
-Raw Data
-   ↓
-Data Collection
-   ↓
+Python / Pandas / NumPy
+        ↓
 Data Cleaning & Validation
-   ↓
-Data Transformation
-   ↓
-Exploratory Data Analysis
-   ↓
-SQL / Python / Excel Analysis
-   ↓
-Power BI / Tableau Visualization
-   ↓
-Reporting & Business Insights
+        ↓
+SQL / MySQL / SQLite
+        ↓
+EDA & Statistical Analysis
+        ↓
+Power BI / Excel / Tableau
+        ↓
+Dashboards & Business Insights
+```
+
+---
+
+## 🎓 Education
+
+**B.Tech — Information Technology**
+IET Dr. Ram Manohar Lohia Avadh University, Ayodhya
+**2022 – 2026**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadiqITrmlau&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqITrmlau&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Turning data into insights, one project at a time.</b>
+</p>
