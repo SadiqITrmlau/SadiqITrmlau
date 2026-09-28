@@ -114,12 +114,6 @@ Computer vision project for real-time sign language detection using image datase
 
 Worked with **CSV/JSON datasets, Python, and Pandas** for data annotation, validation, quality assurance, and consistency verification in an LLM-based geospatial research project.
 
-### 💻 ShadowFox — Web Development Intern
-
-**Oct 2025**
-
-Worked with **HTML, CSS, JavaScript, and GitHub** to develop and enhance web applications.
-
 ---
 
 ## 📈 What I Work With
