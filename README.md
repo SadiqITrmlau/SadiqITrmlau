@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0071CE&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7C+Tableau;Data+Analytics+%7C+Business+Intelligence+%7C+ETL;Building+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0071CE&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Metabase+%7C+Power+BI+%7C+Excel;Digital+Lending+Analytics+%7C+Funnel+%26+Cohort+Analysis;Automating+MIS+Reporting+%26+Executive+Dashboards" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,47 +18,43 @@
 
 ## 🚀 About Me
 
-B.Tech Information Technology student focused on **Data Analytics, Business Intelligence, and Data Engineering**.
+B.Tech Information Technology student focused on **Data Analytics, Business Intelligence, and FinTech Analytics**.
 
-I work with **Python, SQL, Power BI, Excel, and Tableau** to clean, transform, analyze, and visualize data. I enjoy turning raw datasets into **meaningful insights, dashboards, and data-driven solutions**.
+I specialize in **Python, SQL (MySQL), Metabase, Power BI, Advanced Excel, and Tableau** to build automated data pipelines, perform funnel/cohort drop-off analyses, and deliver executive-grade BI dashboards.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,jupyter" />
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git,github,vscode,jupyter" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Featured Projects
 
-### 🛒 Walmart Market Enterprise Analytics Suite
+### 🏦 Credit91 Digital Lending Funnel & Acquisition Analytics
 
-**Python • SQL • Power BI • Excel • Tableau**
+**SQL (MySQL) • Metabase • Python (Pandas) • Funnel & Cohort Analysis**
 
-End-to-end retail analytics project covering data processing, SQL analysis, statistical modeling, and business intelligence dashboards.
+End-to-end digital lending customer journey analytics framework evaluating user attrition across onboarding stages and marketing acquisition performance.
 
-* 📈 Sales and business KPI analysis
-* 🧹 Data cleaning and transformation
-* 🗄️ SQL-based analytical queries
-* 📊 Power BI & Tableau dashboards
-* 📉 Statistical OLS regression
+- 📉 **7-Stage Conversion Funnel:** Tracked 12,000+ customer lifecycle events from app installation to loan disbursal with stage-by-stage drop-off analytics.
+- 🔍 **Device Friction Diagnostics:** Used complex SQL CTEs to identify a 36.8% Web KYC abandonment rate vs. 28.1% on iOS, pinpointing key onboarding friction points.
+- 🎯 **Marketing Channel Attribution:** Measured full-funnel lead quality across Google Ads, Facebook, Organic, and Affiliates in Metabase.
+- 📊 **Executive BI Dashboard:** Designed automated interactive KPI dashboards to streamline ongoing MIS reporting.
 
-🔗 **[View Project](https://github.com/SadiqITrmlau/walmart-sales-data-analytics)**
+🔗 **[View Project](https://github.com/SadiqITrmlau/credit91-lending-funnel-analytics)**
 
 ---
 
@@ -66,11 +62,27 @@ End-to-end retail analytics project covering data processing, SQL analysis, stat
 
 **Python • Pandas • MySQL • Power BI**
 
-* Processed large-scale digital payment and user-registration datasets.
-* Parsed and flattened nested JSON data into structured Pandas DataFrames.
-* Analyzed transaction volume, user growth, and regional payment trends.
+- Processed large-scale digital payment and user-registration datasets.
+- Parsed and flattened nested JSON data into structured Pandas DataFrames.
+- Analyzed transaction volume, user growth, and regional payment trends.
 
 🔗 **[View Project](https://github.com/SadiqITrmlau/PhonePe-Dashboard)**
+
+---
+
+### 🛒 Walmart Market Enterprise Analytics Suite
+
+**Python • SQL • Power BI • Excel • Tableau**
+
+End-to-end retail analytics project covering data processing, SQL analysis, statistical modeling, and business intelligence dashboards.
+
+- 📈 Sales and business KPI analysis
+- 🧹 Data cleaning and transformation
+- 🗄️ SQL-based analytical queries
+- 📊 Power BI & Tableau dashboards
+- 📉 Statistical OLS regression
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/walmart-sales-data-analytics)**
 
 ---
 
@@ -78,9 +90,9 @@ End-to-end retail analytics project covering data processing, SQL analysis, stat
 
 **Python • Pandas • NumPy • Matplotlib • Seaborn**
 
-* Performed data cleaning and exploratory analysis.
-* Investigated missing values, distributions, relationships, and categorical patterns.
-* Created derived features and visualized analytical findings.
+- Performed data cleaning and exploratory analysis.
+- Investigated missing values, distributions, relationships, and categorical patterns.
+- Created derived features and visualized analytical findings.
 
 🔗 **[View Project](https://github.com/SadiqITrmlau/EDA-Analysis-of-Titanic-Dataset)**
 
@@ -96,14 +108,6 @@ Database-driven library management application focused on structured data manage
 
 ---
 
-### 🤟 Real-Time AI Sign Language Detection
-
-**Python • TensorFlow • OpenCV • Machine Learning**
-
-Computer vision project for real-time sign language detection using image datasets, preprocessing, and TensorFlow-based object detection.
-
----
-
 ## 💼 Experience
 
 ### 🔬 IIT Bhubaneswar — Winter Research Intern
@@ -112,7 +116,9 @@ Computer vision project for real-time sign language detection using image datase
 
 **Geospatial Knowledge Inference Using LLMs for Enhanced Travel Decision-Making**
 
-Worked with **CSV/JSON datasets, Python, and Pandas** for data annotation, validation, quality assurance, and consistency verification in an LLM-based geospatial research project.
+- Developed Python/Pandas data-cleaning pipelines for 150+ complex semi-structured datasets, establishing reliable schemas for recurring query workflows.
+- Automated rule-based anomaly detection and data validation routines, cutting manual QA time by 30%.
+- Extracted and filtered relational database records using SQL queries to support research modeling.
 
 ---
 
@@ -121,36 +127,12 @@ Worked with **CSV/JSON datasets, Python, and Pandas** for data annotation, valid
 ```text
 Python / Pandas / NumPy
         ↓
-Data Cleaning & Validation
+Data Cleaning & Pipeline Automation
         ↓
-SQL / MySQL / SQLite
+SQL / MySQL (CTEs, Window Functions)
         ↓
-EDA & Statistical Analysis
+Funnel, Cohort & Attribution Analysis
         ↓
-Power BI / Excel / Tableau
+Metabase / Power BI / Tableau / Excel
         ↓
-Dashboards & Business Insights
-```
-
----
-
-## 🎓 Education
-
-**B.Tech — Information Technology**
-IET Dr. Ram Manohar Lohia Avadh University, Ayodhya
-**2022 – 2026**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiqITrmlau&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiqITrmlau&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <b>💡 Turning data into insights, one project at a time.</b>
-</p>
+Interactive Dashboards & MIS Reports
