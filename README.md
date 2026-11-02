@@ -54,7 +54,7 @@ End-to-end quick-commerce analytics pipeline to identify SLA breaches and expose
 - 📊 **Actionable BI Dashboard:** Designed an interactive Power BI Matrix Heatmap pinpointing peak-hour (19:00–21:00) SLA breaches across multiple store locations.
 - 💡 **Business Impact:** Successfully isolated warehouse picking delays from rider transit times, providing data-backed recommendations to dynamically scale floor staff during peak hours.
 
-🔗 **[View Project](https://github.com/SadiqITrmlau/blinkit-dark-store-analytics)**
+🔗 **[View Project](https://github.com/SadiqITrmlau/blinkit-dark-store-sales-analytics)**
 
 ---
 
