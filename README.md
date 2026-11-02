@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-B.Tech Information Technology student focused on **Data Analytics, Business Intelligence, and FinTech Analytics**.
+B.Tech Information Technology graduate focused on **Data Analytics, Business Intelligence, and FinTech Analytics**.
 
 I specialize in **Python, SQL (MySQL), Metabase, Power BI, Advanced Excel, and Tableau** to build automated data pipelines, perform funnel/cohort drop-off analyses, and deliver executive-grade BI dashboards.
 
@@ -42,6 +42,21 @@ I specialize in **Python, SQL (MySQL), Metabase, Power BI, Advanced Excel, and T
 ---
 
 ## 📊 Featured Projects
+
+### ⚡ Blinkit Dark Store Operations & Delivery Anomaly Tracker
+
+**Python • MySQL (Advanced SQL) • Power BI (DAX) • Data Modeling**
+
+End-to-end quick-commerce analytics pipeline to identify SLA breaches and expose operational bottlenecks in dark stores.
+
+- ⚙️ **Data Engineering:** Engineered a simulated 10,000+ record quick-commerce dataset using Python and mapped it to a 4-table relational MySQL schema.
+- 🔍 **Advanced SQL Analytics:** Authored complex SQL queries (CTEs, Window Functions) to calculate core business KPIs like SLA Breach Rate, Average Delivery Time, and Order Defect Rate (ODR).
+- 📊 **Actionable BI Dashboard:** Designed an interactive Power BI Matrix Heatmap pinpointing peak-hour (19:00–21:00) SLA breaches across multiple store locations.
+- 💡 **Business Impact:** Successfully isolated warehouse picking delays from rider transit times, providing data-backed recommendations to dynamically scale floor staff during peak hours.
+
+🔗 **[View Project](https://github.com/SadiqITrmlau/blinkit-dark-store-analytics)**
+
+---
 
 ### 🏦 Credit91 Digital Lending Funnel & Acquisition Analytics
 
